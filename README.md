@@ -50,9 +50,9 @@ TODO：
   - [ ] 11.2. Controlling How Tests Are Run
   - [ ] 11.3. Test Organization
 - [ ] 12. An I/O Project: Building a Command Line Program
-  - [ ] 12.1. Accepting Command Line Arguments
-  - [ ] 12.2. Reading a File
-  - [ ] 12.3. Refactoring to Improve Modularity and Error Handling
+  - [X] 12.1. Accepting Command Line Arguments
+  - [X] 12.2. Reading a File
+  - [X] 12.3. Refactoring to Improve Modularity and Error Handling
   - [ ] 12.4. Developing the Library’s Functionality with Test Driven Development
   - [ ] 12.5. Working with Environment Variables
   - [ ] 12.6. Writing Error Messages to Standard Error Instead of Standard Output
@@ -105,4 +105,3 @@ TODO：
   - [ ] 21.5. E - Editions
   - [ ] 21.6. F - Translations of the Book
   - [ ] 21.7. G - How Rust is Made and “Nightly Rust”
-  
